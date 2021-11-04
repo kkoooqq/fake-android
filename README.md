@@ -2,6 +2,10 @@
 
 ------
 
+😎 Join the discussion and let's discover fun things together: [All-For-Bots](https://discord.gg/VMUhnUe2)
+
+------
+
 Reverse engineering is not easy, and I would appreciate if you could give a ⭐!
 
 ------
